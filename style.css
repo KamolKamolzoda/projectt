@@ -1,0 +1,275 @@
+.surat{
+
+    background-image: url(IMAGE.png);
+    height: 831px;
+   width: 1240px;
+
+}
+.header{
+    display: flex;
+    height: 50px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    position: sticky;
+    top: 0%;
+    
+}
+.iconka{
+    margin-left: 20px;
+    font-size: 19px;
+}
+.bolo{
+    display: flex;
+    gap: 70px;
+    margin-right: 50px;
+    font-size: 18px;
+}
+
+.surat h1{
+    padding-top: 200px;
+    font-size: 80px;
+    font-weight: 400;
+    font-family: DM Serif Display;
+    height: 192px;
+    width: 595px;
+   
+    color: #292F36;
+}
+.margin{
+    margin-left: 120px;
+}
+.surat p{
+    
+    font-weight: 400;
+    font-size: 22px;
+    color: #4D5053;
+    margin-top: -20px;
+}
+ .surat button{
+
+    width: 207px;
+    height: 71px;
+    font-size: 18px;
+    font-weight: 400;
+    border-radius: 18px;
+    background-color: #292F36;
+    color: white;
+}
+.boxes{
+    display: flex;
+    width: 1250px;
+    justify-content: center;
+    padding-top: 200px;
+
+}
+.box1{
+    width: 400px;
+    text-align: center;
+   
+}
+.box2{
+    width: 400px;
+}
+.box3{
+    width: 400px;
+}
+.estimate {
+    display: flex;
+    margin-right: 120px;
+}
+.chap{
+    margin-left: 120px;
+}
+.chap h1{
+    width: 450px;
+    height: 130px;
+    font-size: 50px;
+    font-weight: 400;
+    margin-bottom: 50px;
+} 
+.chap p{
+ width: 531px;
+    height: 66px;
+    font-size: 22px;
+    font-weight: 400;
+    margin-top: -35px;
+    color: #4D5053;
+}
+.chap button{
+    width: 263px;
+    height: 71px;
+    font-size: 18px;
+    font-weight: 400;
+    border-radius: 18px;
+    background-color: #292F36;
+    color: white;
+}
+.info{
+    background-color: #F4F0EC;
+    margin-top: 140px;
+    height: 675px;
+    border-radius: 70px;
+    
+}
+.text{
+    width: 479px;
+    text-align: center;
+   margin: auto;
+   padding-top: 100px;
+
+    
+}
+.suratho{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.baby p{
+    font-size: 20px;
+    width: 244px;
+    height: 90px;
+    font-weight: 400;
+    margin-left: 35px;
+}
+.baby{
+    background-color: white;
+    border-radius: 30px;
+    width: 354px;
+    height: 287px;
+    padding-top: 50px;
+    padding-left: 20px;
+    margin: auto;
+}
+.images{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: auto;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.images h4{
+    color: #292F36;
+    font-size: 24px;
+
+    height: 38px;
+}
+.images p{
+    color: #4D5053;
+    font-size: 22px;
+    margin-top: -35px;
+}
+.maybe{
+    display: flex; 
+    justify-content: space-around;
+    
+}
+.maybe_1{
+    display: flex;
+    justify-content: space-around;
+}
+.kitchen{
+    margin-left: 20px;
+}
+.darun h3{
+    font-size: 25px;
+    height: 70px;
+    width: 338px;
+}
+.darun p{
+    font-size: 16px;
+    height: 24px;
+}
+.darun{
+    border: 1px solid black;
+    border-radius: 40px;
+    margin-top: 30px;
+    border-style:none;
+   
+}
+.radius{
+    border: 1px solid #E7E7E7;
+    border-radius: 40px;
+    width: 370px;
+    margin: 20px 0px 0px 20px;
+    padding: 20px;
+}
+.chum{
+    background-color: #292F36;
+    color: white;
+    text-align: center;
+    height: 414px;
+    width: 1200px;
+    margin: auto;
+    margin-top: 200px;
+    border-radius: 70px;
+}
+.chum h1{
+  padding-top: 100px;
+    height: 75px;
+    font-size: 50px;
+}
+.chum p{
+
+    font-size: 22px;
+    height: 33px;
+    
+}
+.chum button{
+    width: 241px;
+    height: 71px;
+    background-color: #CDA274;
+    color: white;
+    border-radius: 18px;
+    border: 2px none ;
+}
+.bayn{
+    padding-top: 100px;
+}
+.poyon{
+    display: flex;
+    padding-top: 80px;
+    padding-left: 80px;
+    margin: auto;
+}
+.yakm{
+width: 393px;
+height: 374px;
+}
+.poyon p{
+    color: #4D5053;
+    font-size: 22px;
+}
+.poyon h5{
+    font-size: 25px;
+}
+.yakm p{
+    width: 326px;
+}
+.duyum{
+    width: 210px ;
+    height: 374px;
+}
+.seyum{
+    width: 210px;
+    height: 374px;
+}
+.chorum{
+    width: 337px;
+    height: 374px;
+}
+.oxir{
+  border-top: 1px solid gray;
+   display: flex;
+   font-size: 22px;
+  
+   padding-left: 200px;
+   margin: auto;
+}
+.rang{
+    color: #CDA274;
+}
+.oxir p{
+   
+}
